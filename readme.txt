@@ -7,3 +7,4 @@ Creating a new branch is quick.&simple
 =======
 eting a new branch is quick AND simple.reating a new branch is quick.
 >>>>>>> feature1
+abc
